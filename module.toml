@@ -1,0 +1,11 @@
+[module]
+name = "hello_air"
+version = "0.1.0"
+author = "Mateusz Słotwiński"
+license = "MIT"
+
+[dependencies]
+xyz = "2.13.7"
+
+[dev]
+abc = "4.2.0"
